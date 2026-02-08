@@ -2,15 +2,19 @@
 
 Welcome to my GitHub profile!
 
-## 📈 GitHub Stats
+## 📈 Stats
 
-![adpe's GitHub stats](https://github-readme-stats.vercel.app/api?username=adpe&show_icons=true&theme=dracula)
+![Stats](./profile/stats.svg)
 
-## 🏆 GitHub Trophies
+## 🗣️ Languages
 
-![adpe's GitHub trophies](https://github-profile-trophy.vercel.app/?username=adpe&theme=dracula)
+![Top Languages](./profile/top-langs.svg)
 
-## 📫 Connect with Me
+## 🏆 Trophies
+
+![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=adpe&theme=dracula)
+
+## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/adpe)
 - [Personal Website](https://adrianperez.me)
