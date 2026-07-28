@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 
 ## 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy-sigma-one.vercel.app/?username=adpe&theme=dracula)](https://github-profile-trophy-sigma-one.vercel.app/?username=adpe&theme=dracula)
+[![Trophies](https://github-trophies.devomb.com/?username=adpe&theme=dracula)](https://github-trophies.devomb.com/?username=adpe&theme=dracula)
 
 ## 📫 Connect
 
